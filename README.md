@@ -1,17 +1,17 @@
 # Stock-Management-App
-This app is builted with Laravel7/PHP/Blade, Bootstrap/CSS and jQuery/Javascript, and also MySQL for the database. <br/>
+This app was built using Laravel7/PHP/Blade, Bootstrap/CSS, jQuery/Javascript, and, MySQL for the database. <br/>
 You can check the preview here: https://bit.ly/3oImhpg
 
 <br/>
 
-We are using French words in the app.
+We are using French in the app.
 
 <br/>
 
-For the database, we are using MySQL: <br/>
-- you have to install it in your machine
-- then create a database with the name "gestion_stock"
-- and finally import the file "Database_Script/gestion_stock.sql" into it
+For the database, MySQL is used: <br/>
+- Install mysql
+- Create a database named "gestion_stock"
+- Import the file "Database_Script/gestion_stock.sql" into it
 <br/><br/>
 
 For a detailed description (Modeling and Design, and also GUIs) you can check the report of the app writed in french and download the PDF: https://bit.ly/3iJvyto
